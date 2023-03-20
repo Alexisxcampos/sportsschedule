@@ -4,8 +4,8 @@
 
       Tipton Turbines
       Baseball Schedule Data
-      Author: 
-      Date:   
+      Author: Alexis Campos
+      Date: 03/09/2023
 
       Filename: schedule.js
 */
