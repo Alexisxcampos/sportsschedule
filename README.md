@@ -1,4 +1,4 @@
 https://alexisxcampos.github.io/sportsschedule/
 
 # sportsschedule
-Focuings on building and using arrays!
+This project focuses on building and using arrays!
